@@ -1,2 +1,2 @@
 # Revise-git
-This is for revising the git/ github
+This is for revising the git/ github.
